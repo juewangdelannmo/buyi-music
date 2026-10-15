@@ -1,0 +1,35 @@
+# 依赖与构建产物
+node_modules/
+dist/
+!release/
+
+# 日志与临时文件
+*.log
+testplay.log
+testpack.log
+npm-debug.log*
+builder-debug.yml
+
+# Electron/Builder 缓存
+.electron/
+*.blockmap
+
+# 采集过程中的中间缓存（可自行重新生成）
+scripts/.bili_cache.json
+
+# 截图（保留 docs 下的正式截图）
+shot-*.png
+!docs/*.png
+
+# 编辑器/系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 用户数据
+downloads/
+
+# Python 缓存
+__pycache__/
+*.pyc

@@ -1,0 +1,1528 @@
+{
+ "before": 303,
+ "removed": [
+  {
+   "id": "b18",
+   "title": "贵州好花红镇航拍",
+   "artist": "pkhotel",
+   "source": "B站",
+   "reason": "D-非布依族音乐内容（航拍/教学/纪录片/影视歌曲/外语歌曲）"
+  },
+  {
+   "id": "b37",
+   "title": "你是我的意难平",
+   "artist": "宝丫头&小四川",
+   "source": "酷我",
+   "reason": "A-其他民族歌手作品（彝族等），与布依族无关"
+  },
+  {
+   "id": "b38",
+   "title": "大地之子",
+   "artist": "吉克老鹰",
+   "source": "酷我",
+   "reason": "A-其他民族歌手作品（彝族等），与布依族无关"
+  },
+  {
+   "id": "b39",
+   "title": "约定",
+   "artist": "舞彝阳光",
+   "source": "酷我",
+   "reason": "A-其他民族歌手作品（彝族等），与布依族无关"
+  },
+  {
+   "id": "b40",
+   "title": "祖先",
+   "artist": "海日乌芝",
+   "source": "酷我",
+   "reason": "A-其他民族歌手作品（彝族等），与布依族无关"
+  },
+  {
+   "id": "b41",
+   "title": "晨曦（2015）",
+   "artist": "贾巴阿叁",
+   "source": "酷我",
+   "reason": "A-其他民族歌手作品（彝族等），与布依族无关"
+  },
+  {
+   "id": "b42",
+   "title": "山风一样自由",
+   "artist": "阿鲁阿卓",
+   "source": "酷我",
+   "reason": "A-其他民族歌手作品（彝族等），与布依族无关"
+  },
+  {
+   "id": "b58",
+   "title": "[民歌中国]湖北民歌《催咚催》_演唱-易文卉_",
+   "artist": "我家乖囡-二骑小操",
+   "source": "B站",
+   "reason": "D-非布依族音乐内容（航拍/教学/纪录片/影视歌曲/外语歌曲）"
+  },
+  {
+   "id": "b60",
+   "title": "布依族语言文字学习课文 - 布依族语言文字学习课文 第六课 谚语 日常用语 讲桌吴定川_标清",
+   "artist": "江川5路",
+   "source": "B站",
+   "reason": "D-非布依族音乐内容（航拍/教学/纪录片/影视歌曲/外语歌曲）"
+  },
+  {
+   "id": "b72",
+   "title": "Shuo Huang De Yan Jing(Kala)",
+   "artist": "Kenny Chiang",
+   "source": "咪咕",
+   "reason": "E-咪咕检索噪声（卡拉OK/纯音乐片段）"
+  },
+  {
+   "id": "b73",
+   "title": "曲 (DJ纯享版)",
+   "artist": "易梦玲",
+   "source": "咪咕",
+   "reason": "E-咪咕检索噪声（卡拉OK/纯音乐片段）"
+  },
+  {
+   "id": "b74",
+   "title": "曲 (Remix)-",
+   "artist": "美阳阳",
+   "source": "咪咕",
+   "reason": "E-咪咕检索噪声（卡拉OK/纯音乐片段）"
+  },
+  {
+   "id": "b79",
+   "title": "布依族：拥有魔法的民族",
+   "artist": "圆柱文化",
+   "source": "酷我",
+   "reason": "D-有声书/长音频/朗读类内容，非歌曲"
+  },
+  {
+   "id": "b81",
+   "title": "布依族",
+   "artist": "恋景学院",
+   "source": "酷我",
+   "reason": "D-有声书/长音频/朗读类内容，非歌曲"
+  },
+  {
+   "id": "b83",
+   "title": "布依族",
+   "artist": "陈文上",
+   "source": "酷我",
+   "reason": "D-有声书/长音频/朗读类内容，非歌曲"
+  },
+  {
+   "id": "b84",
+   "title": "布依族",
+   "artist": "小面",
+   "source": "酷我",
+   "reason": "D-有声书/长音频/朗读类内容，非歌曲"
+  },
+  {
+   "id": "b85",
+   "title": "《秘藏天书》第106章 古老的少数民族：布依族",
+   "artist": "大明Deo",
+   "source": "酷我",
+   "reason": "D-有声书/长音频/朗读类内容，非歌曲"
+  },
+  {
+   "id": "b86",
+   "title": "布依族 (长音频)",
+   "artist": "圆味酱mint",
+   "source": "酷我",
+   "reason": "D-有声书/长音频/朗读类内容，非歌曲"
+  },
+  {
+   "id": "b87",
+   "title": "这首歌说 ，就算不在一起，我 天天想着你 ，把你放在心里，我不会 忘记， 想你眼泪流， 念你眼泪掉 ，有话说不完",
+   "artist": "布依族",
+   "source": "酷我",
+   "reason": "D-平台原声/随机曲目，与布依族无实质关联"
+  },
+  {
+   "id": "b88",
+   "title": "望爱却步",
+   "artist": "布依族",
+   "source": "酷我",
+   "reason": "D-平台原声/随机曲目，与布依族无实质关联"
+  },
+  {
+   "id": "b89",
+   "title": "平淡创作的原声",
+   "artist": "布依族",
+   "source": "酷我",
+   "reason": "D-平台原声/随机曲目，与布依族无实质关联"
+  },
+  {
+   "id": "b90",
+   "title": "缺钱睡不着 (Live)",
+   "artist": "布依族",
+   "source": "酷我",
+   "reason": "D-平台原声/随机曲目，与布依族无实质关联"
+  },
+  {
+   "id": "b93",
+   "title": "请你不要责备自己",
+   "artist": "火塘故事",
+   "source": "酷我",
+   "reason": "D-平台原声/随机曲目，与布依族无实质关联"
+  },
+  {
+   "id": "b104",
+   "title": "柑子树",
+   "artist": "吴碧霞",
+   "source": "MyFreeMP3",
+   "reason": "C-吴碧霞民歌专辑中的其他地区民歌，非布依族"
+  },
+  {
+   "id": "b105",
+   "title": "马桑树树搭灯台",
+   "artist": "吴碧霞",
+   "source": "MyFreeMP3",
+   "reason": "C-吴碧霞民歌专辑中的其他地区民歌，非布依族"
+  },
+  {
+   "id": "b106",
+   "title": "在百万录音棚听 周深《大梦归》【《兰香如故》电视剧主题曲】",
+   "artist": "Rhea_music",
+   "source": "B站",
+   "reason": "D-非布依族音乐内容（航拍/教学/纪录片/影视歌曲/外语歌曲）"
+  },
+  {
+   "id": "b107",
+   "title": "周深《泪海》音响修理师 开口即封神",
+   "artist": "我是赵星老师",
+   "source": "B站",
+   "reason": "D-非布依族音乐内容（航拍/教学/纪录片/影视歌曲/外语歌曲）"
+  },
+  {
+   "id": "b169",
+   "title": "@好花红创作的原声",
+   "artist": "好花红",
+   "source": "酷我",
+   "reason": "D-抖音原声片段，非完整歌曲"
+  },
+  {
+   "id": "b172",
+   "title": "一杯美酒 (Live)",
+   "artist": "吴碧霞",
+   "source": "酷我",
+   "reason": "A-吴碧霞《一杯美酒》，非布依族民歌"
+  },
+  {
+   "id": "b178",
+   "title": "彩云之南",
+   "artist": "徐千雅",
+   "source": "酷我",
+   "reason": "A-草原/藏族/云南风流行歌曲，检索噪声，与布依族无关"
+  },
+  {
+   "id": "b179",
+   "title": "郎想妹来妹想郎",
+   "artist": "凯小晴&苏潇潇",
+   "source": "酷我",
+   "reason": "A-草原/藏族/云南风流行歌曲，检索噪声，与布依族无关"
+  },
+  {
+   "id": "b180",
+   "title": "神奇的九寨",
+   "artist": "容中尔甲",
+   "source": "酷我",
+   "reason": "A-草原/藏族/云南风流行歌曲，检索噪声，与布依族无关"
+  },
+  {
+   "id": "b181",
+   "title": "山路十八弯",
+   "artist": "李琼",
+   "source": "酷我",
+   "reason": "A-草原/藏族/云南风流行歌曲，检索噪声，与布依族无关"
+  },
+  {
+   "id": "b182",
+   "title": "哥哥不要把我忘",
+   "artist": "凯小晴&苏潇潇",
+   "source": "酷我",
+   "reason": "A-草原/藏族/云南风流行歌曲，检索噪声，与布依族无关"
+  },
+  {
+   "id": "b183",
+   "title": "黄土高坡",
+   "artist": "李娜",
+   "source": "酷我",
+   "reason": "A-草原/藏族/云南风流行歌曲，检索噪声，与布依族无关"
+  },
+  {
+   "id": "b184",
+   "title": "西海情歌",
+   "artist": "刀郎",
+   "source": "酷我",
+   "reason": "A-草原/藏族/云南风流行歌曲，检索噪声，与布依族无关"
+  },
+  {
+   "id": "b185",
+   "title": "向往神鹰",
+   "artist": "亚东",
+   "source": "酷我",
+   "reason": "A-草原/藏族/云南风流行歌曲，检索噪声，与布依族无关"
+  },
+  {
+   "id": "b186",
+   "title": "卓玛",
+   "artist": "亚东",
+   "source": "酷我",
+   "reason": "A-草原/藏族/云南风流行歌曲，检索噪声，与布依族无关"
+  },
+  {
+   "id": "b187",
+   "title": "西海情歌",
+   "artist": "降央卓玛",
+   "source": "酷我",
+   "reason": "A-草原/藏族/云南风流行歌曲，检索噪声，与布依族无关"
+  },
+  {
+   "id": "b188",
+   "title": "未知曲目",
+   "artist": "乌兰托娅",
+   "source": "酷我",
+   "reason": "A-草原/藏族/云南风流行歌曲，检索噪声，与布依族无关"
+  },
+  {
+   "id": "b189",
+   "title": "呼伦贝尔大草原",
+   "artist": "降央卓玛",
+   "source": "酷我",
+   "reason": "A-草原/藏族/云南风流行歌曲，检索噪声，与布依族无关"
+  },
+  {
+   "id": "b190",
+   "title": "青藏高原",
+   "artist": "韩红",
+   "source": "酷我",
+   "reason": "A-草原/藏族/云南风流行歌曲，检索噪声，与布依族无关"
+  },
+  {
+   "id": "b191",
+   "title": "歌在飞",
+   "artist": "苏勒亚其其格",
+   "source": "酷我",
+   "reason": "A-草原/藏族/云南风流行歌曲，检索噪声，与布依族无关"
+  },
+  {
+   "id": "b192",
+   "title": "坐上火车去拉萨",
+   "artist": "徐千雅",
+   "source": "酷我",
+   "reason": "A-草原/藏族/云南风流行歌曲，检索噪声，与布依族无关"
+  },
+  {
+   "id": "b193",
+   "title": "火红的萨日朗(原版)",
+   "artist": "乌兰托娅",
+   "source": "酷我",
+   "reason": "A-草原/藏族/云南风流行歌曲，检索噪声，与布依族无关"
+  },
+  {
+   "id": "b194",
+   "title": "卓玛",
+   "artist": "降央卓玛",
+   "source": "酷我",
+   "reason": "A-草原/藏族/云南风流行歌曲，检索噪声，与布依族无关"
+  },
+  {
+   "id": "b195",
+   "title": "高原蓝",
+   "artist": "乌兰托娅",
+   "source": "酷我",
+   "reason": "A-草原/藏族/云南风流行歌曲，检索噪声，与布依族无关"
+  },
+  {
+   "id": "b196",
+   "title": "次真拉姆",
+   "artist": "扎西尼玛",
+   "source": "酷我",
+   "reason": "A-草原/藏族/云南风流行歌曲，检索噪声，与布依族无关"
+  },
+  {
+   "id": "b197",
+   "title": "FLY-飞(原版)",
+   "artist": "ANU",
+   "source": "酷我",
+   "reason": "A-草原/藏族/云南风流行歌曲，检索噪声，与布依族无关"
+  },
+  {
+   "id": "b198",
+   "title": "月亮里的阿妹",
+   "artist": "鲍岩块&李妮妮",
+   "source": "酷我",
+   "reason": "A-草原/藏族/云南风流行歌曲，检索噪声，与布依族无关"
+  },
+  {
+   "id": "b199",
+   "title": "草原的月亮",
+   "artist": "云飞",
+   "source": "酷我",
+   "reason": "A-草原/藏族/云南风流行歌曲，检索噪声，与布依族无关"
+  },
+  {
+   "id": "b200",
+   "title": "火火的姑娘",
+   "artist": "东方红艳",
+   "source": "酷我",
+   "reason": "A-草原/藏族/云南风流行歌曲，检索噪声，与布依族无关"
+  },
+  {
+   "id": "b201",
+   "title": "也想跟你有个家",
+   "artist": "阿美",
+   "source": "酷我",
+   "reason": "A-草原/藏族/云南风流行歌曲，检索噪声，与布依族无关"
+  },
+  {
+   "id": "b202",
+   "title": "情歌赛过春江水",
+   "artist": "云朵&韩冰",
+   "source": "酷我",
+   "reason": "A-草原/藏族/云南风流行歌曲，检索噪声，与布依族无关"
+  },
+  {
+   "id": "b203",
+   "title": "火辣辣的情歌",
+   "artist": "乌兰图雅",
+   "source": "酷我",
+   "reason": "A-草原/藏族/云南风流行歌曲，检索噪声，与布依族无关"
+  },
+  {
+   "id": "b204",
+   "title": "阿尔山的姑娘",
+   "artist": "乌兰图雅",
+   "source": "酷我",
+   "reason": "A-草原/藏族/云南风流行歌曲，检索噪声，与布依族无关"
+  },
+  {
+   "id": "b205",
+   "title": "请到草原来",
+   "artist": "呼斯楞",
+   "source": "酷我",
+   "reason": "A-草原/藏族/云南风流行歌曲，检索噪声，与布依族无关"
+  },
+  {
+   "id": "b206",
+   "title": "敖包相会",
+   "artist": "乌兰图雅&云飞",
+   "source": "酷我",
+   "reason": "A-草原/藏族/云南风流行歌曲，检索噪声，与布依族无关"
+  },
+  {
+   "id": "b207",
+   "title": "心上的罗加",
+   "artist": "阿鲁阿卓",
+   "source": "酷我",
+   "reason": "A-草原/藏族/云南风流行歌曲，检索噪声，与布依族无关"
+  },
+  {
+   "id": "b208",
+   "title": "高原红",
+   "artist": "容中尔甲",
+   "source": "酷我",
+   "reason": "A-草原/藏族/云南风流行歌曲，检索噪声，与布依族无关"
+  },
+  {
+   "id": "b209",
+   "title": "未知曲目",
+   "artist": "扎西尼玛&齐旦布&兰卡措",
+   "source": "酷我",
+   "reason": "A-草原/藏族/云南风流行歌曲，检索噪声，与布依族无关"
+  },
+  {
+   "id": "b210",
+   "title": "想跟哥哥谈恋爱（DJ小蒋版）",
+   "artist": "右右",
+   "source": "酷我",
+   "reason": "A-草原/藏族/云南风流行歌曲，检索噪声，与布依族无关"
+  },
+  {
+   "id": "b211",
+   "title": "套马杆",
+   "artist": "乌兰图雅",
+   "source": "酷我",
+   "reason": "A-草原/藏族/云南风流行歌曲，检索噪声，与布依族无关"
+  },
+  {
+   "id": "b212",
+   "title": "火烧巴蛮子",
+   "artist": "龙星辰",
+   "source": "酷我",
+   "reason": "A-草原/藏族/云南风流行歌曲，检索噪声，与布依族无关"
+  },
+  {
+   "id": "b222",
+   "title": "布依族进行曲 (布暗娜之神)",
+   "artist": "еяхат музыка&La Mer&Pao7oO",
+   "source": "酷我",
+   "reason": "G-曲名含游戏/同人设定，与布依族无实质关联"
+  },
+  {
+   "id": "b223",
+   "title": "阿衣莫",
+   "artist": "阿吉太组合",
+   "source": "酷我",
+   "reason": "A-彝族/藏族/其他民族歌曲，与布依族无关"
+  },
+  {
+   "id": "b224",
+   "title": "阿果吉曲",
+   "artist": "海来阿木",
+   "source": "酷我",
+   "reason": "A-彝族/藏族/其他民族歌曲，与布依族无关"
+  },
+  {
+   "id": "b225",
+   "title": "子莫格尼",
+   "artist": "杉和&小青蛙组合",
+   "source": "酷我",
+   "reason": "A-彝族/藏族/其他民族歌曲，与布依族无关"
+  },
+  {
+   "id": "b226",
+   "title": "难解",
+   "artist": "巴邓顿珠&自游诗",
+   "source": "酷我",
+   "reason": "A-彝族/藏族/其他民族歌曲，与布依族无关"
+  },
+  {
+   "id": "b227",
+   "title": "欢乐地跳吧",
+   "artist": "新疆美丽公主组合",
+   "source": "酷我",
+   "reason": "A-彝族/藏族/其他民族歌曲，与布依族无关"
+  },
+  {
+   "id": "b228",
+   "title": "大山",
+   "artist": "王睿卓",
+   "source": "酷我",
+   "reason": "A-彝族/藏族/其他民族歌曲，与布依族无关"
+  },
+  {
+   "id": "b229",
+   "title": "姑娘我爱你",
+   "artist": "索朗扎西",
+   "source": "酷我",
+   "reason": "A-彝族/藏族/其他民族歌曲，与布依族无关"
+  },
+  {
+   "id": "b230",
+   "title": "别知己",
+   "artist": "未知歌手",
+   "source": "酷我",
+   "reason": "A-彝族/藏族/其他民族歌曲，与布依族无关"
+  },
+  {
+   "id": "b231",
+   "title": "金色的口弦",
+   "artist": "金古阿嘎",
+   "source": "酷我",
+   "reason": "A-彝族/藏族/其他民族歌曲，与布依族无关"
+  },
+  {
+   "id": "b232",
+   "title": "爱的思念",
+   "artist": "央金兰泽",
+   "source": "酷我",
+   "reason": "A-彝族/藏族/其他民族歌曲，与布依族无关"
+  },
+  {
+   "id": "b233",
+   "title": "未知曲目",
+   "artist": "未知歌手",
+   "source": "酷我",
+   "reason": "A-彝族/藏族/其他民族歌曲，与布依族无关"
+  },
+  {
+   "id": "b234",
+   "title": "梦中的额吉",
+   "artist": "乌达木",
+   "source": "酷我",
+   "reason": "A-彝族/藏族/其他民族歌曲，与布依族无关"
+  },
+  {
+   "id": "b235",
+   "title": "5258",
+   "artist": "海来阿木&阿呷拉古",
+   "source": "酷我",
+   "reason": "A-彝族/藏族/其他民族歌曲，与布依族无关"
+  },
+  {
+   "id": "b236",
+   "title": "五彩湖",
+   "artist": "杉和",
+   "source": "酷我",
+   "reason": "A-彝族/藏族/其他民族歌曲，与布依族无关"
+  },
+  {
+   "id": "b237",
+   "title": "ꆀꃅꀉꐔ尼木阿其(Single Version)",
+   "artist": "阿西阿支",
+   "source": "酷我",
+   "reason": "A-彝族/藏族/其他民族歌曲，与布依族无关"
+  },
+  {
+   "id": "b238",
+   "title": "美丽姑娘",
+   "artist": "彝人制造",
+   "source": "酷我",
+   "reason": "A-彝族/藏族/其他民族歌曲，与布依族无关"
+  },
+  {
+   "id": "b239",
+   "title": "阿嫫(妈妈)",
+   "artist": "白里格",
+   "source": "酷我",
+   "reason": "A-彝族/藏族/其他民族歌曲，与布依族无关"
+  },
+  {
+   "id": "b240",
+   "title": "妈妈的歌谣",
+   "artist": "莫西子诗",
+   "source": "酷我",
+   "reason": "A-彝族/藏族/其他民族歌曲，与布依族无关"
+  },
+  {
+   "id": "b241",
+   "title": "弟弟的眼眸",
+   "artist": "阿的阿合",
+   "source": "酷我",
+   "reason": "A-彝族/藏族/其他民族歌曲，与布依族无关"
+  },
+  {
+   "id": "b242",
+   "title": "土妹妹",
+   "artist": "山鹰组合",
+   "source": "酷我",
+   "reason": "A-彝族/藏族/其他民族歌曲，与布依族无关"
+  },
+  {
+   "id": "b243",
+   "title": "丽江三部曲",
+   "artist": "和文军",
+   "source": "酷我",
+   "reason": "A-彝族/藏族/其他民族歌曲，与布依族无关"
+  },
+  {
+   "id": "b244",
+   "title": "一生的飞翔",
+   "artist": "齐旦布",
+   "source": "酷我",
+   "reason": "A-彝族/藏族/其他民族歌曲，与布依族无关"
+  },
+  {
+   "id": "b245",
+   "title": "Hello!བདེ་ལེགས་སམ།",
+   "artist": "斯丹曼簇&德吉老爷",
+   "source": "酷我",
+   "reason": "A-彝族/藏族/其他民族歌曲，与布依族无关"
+  },
+  {
+   "id": "b246",
+   "title": "流淌的思念",
+   "artist": "瓦其依合",
+   "source": "酷我",
+   "reason": "A-彝族/藏族/其他民族歌曲，与布依族无关"
+  },
+  {
+   "id": "b247",
+   "title": "小河淌水",
+   "artist": "吴碧霞",
+   "source": "酷我",
+   "reason": "A-彝族/藏族/其他民族歌曲，与布依族无关"
+  },
+  {
+   "id": "b248",
+   "title": "我爱你亲爱的姑娘",
+   "artist": "布衣乐队",
+   "source": "MyFreeMP3",
+   "reason": "B-「布衣乐队」与布依族无关（名称误命中）"
+  },
+  {
+   "id": "b249",
+   "title": "阿妲",
+   "artist": "阿西",
+   "source": "MyFreeMP3",
+   "reason": "B-歌手/曲目与布依族无关联"
+  },
+  {
+   "id": "b256",
+   "title": "洗菜心",
+   "artist": "吴碧霞",
+   "source": "MyFreeMP3",
+   "reason": "C-吴碧霞民歌专辑中的其他地区民歌，非布依族"
+  },
+  {
+   "id": "b257",
+   "title": "包楞调",
+   "artist": "吴碧霞",
+   "source": "MyFreeMP3",
+   "reason": "C-吴碧霞民歌专辑中的其他地区民歌，非布依族"
+  },
+  {
+   "id": "b258",
+   "title": "打酸枣",
+   "artist": "吴碧霞",
+   "source": "MyFreeMP3",
+   "reason": "C-吴碧霞民歌专辑中的其他地区民歌，非布依族"
+  },
+  {
+   "id": "b259",
+   "title": "送情郎",
+   "artist": "吴碧霞",
+   "source": "MyFreeMP3",
+   "reason": "C-吴碧霞民歌专辑中的其他地区民歌，非布依族"
+  },
+  {
+   "id": "b260",
+   "title": "斑鸠调",
+   "artist": "吴碧霞",
+   "source": "MyFreeMP3",
+   "reason": "C-吴碧霞民歌专辑中的其他地区民歌，非布依族"
+  },
+  {
+   "id": "b261",
+   "title": "康定情歌",
+   "artist": "吴碧霞",
+   "source": "MyFreeMP3",
+   "reason": "C-吴碧霞民歌专辑中的其他地区民歌，非布依族"
+  },
+  {
+   "id": "b262",
+   "title": "赶牲灵",
+   "artist": "吴碧霞",
+   "source": "MyFreeMP3",
+   "reason": "C-吴碧霞民歌专辑中的其他地区民歌，非布依族"
+  },
+  {
+   "id": "b263",
+   "title": "Xioa Ping and Jun Lin",
+   "artist": "小饼",
+   "source": "MyFreeMP3",
+   "reason": "D-非布依族音乐内容（航拍/教学/纪录片/影视歌曲/外语歌曲）"
+  },
+  {
+   "id": "b264",
+   "title": "月亮弯弯照九州",
+   "artist": "吴碧霞",
+   "source": "MyFreeMP3",
+   "reason": "C-吴碧霞民歌专辑中的其他地区民歌，非布依族"
+  },
+  {
+   "id": "b265",
+   "title": "绣灯笼",
+   "artist": "吴碧霞",
+   "source": "MyFreeMP3",
+   "reason": "C-吴碧霞民歌专辑中的其他地区民歌，非布依族"
+  },
+  {
+   "id": "b294",
+   "title": "全56集【探秘中华56个民族】学习传统文化 了解56个民族风土人情和历史文化 - 第9节：布依族",
+   "artist": "清北门之约",
+   "source": "B站",
+   "reason": "D-非布依族音乐内容（航拍/教学/纪录片/影视歌曲/外语歌曲）"
+  },
+  {
+   "id": "b295",
+   "title": "【壮语】《田林迎客敬酒歌》壮文-布依文字幕与歌词讲解",
+   "artist": "烽火龍",
+   "source": "B站",
+   "reason": "D-非布依族音乐内容（航拍/教学/纪录片/影视歌曲/外语歌曲）"
+  },
+  {
+   "id": "b297",
+   "title": "《我以我的方式祝福你》",
+   "artist": "黔城眼",
+   "source": "光音·微信",
+   "reason": "F-微信合辑中的非布依族轻音乐/流行曲"
+  },
+  {
+   "id": "b298",
+   "title": "绿野仙踪",
+   "artist": "黔城眼",
+   "source": "光音·微信",
+   "reason": "F-微信合辑中的非布依族轻音乐/流行曲"
+  },
+  {
+   "id": "b299",
+   "title": "草原音乐",
+   "artist": "黔城眼",
+   "source": "光音·微信",
+   "reason": "F-微信合辑中的非布依族轻音乐/流行曲"
+  },
+  {
+   "id": "b300",
+   "title": "葫芦丝- 轻音乐",
+   "artist": "黔城眼",
+   "source": "光音·微信",
+   "reason": "F-微信合辑中的非布依族轻音乐/流行曲"
+  },
+  {
+   "id": "b301",
+   "title": "巫娜 - 莲语禅心",
+   "artist": "黔城眼",
+   "source": "光音·微信",
+   "reason": "F-微信合辑中的非布依族轻音乐/流行曲"
+  }
+ ],
+ "added": [
+  {
+   "id": "n1000",
+   "title": "布依语歌曲《命中注定》讲一对真心相爱的布依青年，遭遇传统八字合婚习俗的阻碍，从痛苦纠结，到决心冲破宿命偏见，坚守爱情的故事。",
+   "artist": "轩言EH",
+   "source": "B站",
+   "duration": "03:58",
+   "playable": true,
+   "bvid": "BV1YwpE6PEnK"
+  },
+  {
+   "id": "n1001",
+   "title": "布依族山歌_原版 高质量 和声伴奏",
+   "artist": "猪猪音乐伴奏",
+   "source": "B站",
+   "duration": "03:22",
+   "playable": true,
+   "bvid": "BV1BHpv6sEvm"
+  },
+  {
+   "id": "n1002",
+   "title": "爵士版贵州布依民歌「好花红」林肯爵士乐中心完整版",
+   "artist": "爵士蓝Lan",
+   "source": "B站",
+   "duration": "06:04",
+   "playable": true,
+   "bvid": "BV1AoHk6DE9w"
+  },
+  {
+   "id": "n1003",
+   "title": "久不唱歌忘记歌（布依族 ）",
+   "artist": "山西谦炫律所常律师",
+   "source": "B站",
+   "duration": "02:20",
+   "playable": true,
+   "bvid": "BV1nZHL6NEpV"
+  },
+  {
+   "id": "n1004",
+   "title": "【世界民歌】布依族民歌《撑伞歌 Weanl Gaangl Leangc》（布依古调）",
+   "artist": "太史笑風",
+   "source": "B站",
+   "duration": "03:28",
+   "playable": true,
+   "bvid": "BV14Cam6cEbe"
+  },
+  {
+   "id": "n1005",
+   "title": "省级非遗布依八音经典曲目《一杯凉水来当茶》",
+   "artist": "山歌村来美",
+   "source": "B站",
+   "duration": "03:35",
+   "playable": true,
+   "bvid": "BV1iXtA6rEPF"
+  },
+  {
+   "id": "n1006",
+   "title": "布依族说唱，布依族女孩消沉了一段时间，又恢复了原来的样子",
+   "artist": "轩言EH",
+   "source": "B站",
+   "duration": "00:44",
+   "playable": true,
+   "bvid": "BV1uou46HEmW"
+  },
+  {
+   "id": "n1007",
+   "title": "布越古歌《撑伞歌》",
+   "artist": "甲林布依族",
+   "source": "B站",
+   "duration": "03:35",
+   "playable": true,
+   "bvid": "BV1RT3z6cErS"
+  },
+  {
+   "id": "n1008",
+   "title": "《山间勒尤响·布依古韵长》",
+   "artist": "团团夜色",
+   "source": "B站",
+   "duration": "04:58",
+   "playable": true,
+   "bvid": "BV1rNKZ62EFn"
+  },
+  {
+   "id": "n1009",
+   "title": "布依语演唱《好花红》",
+   "artist": "山歌村来美",
+   "source": "B站",
+   "duration": "02:10",
+   "playable": true,
+   "bvid": "BV1nUKZ67EPX"
+  },
+  {
+   "id": "n1010",
+   "title": "欢迎客人来到布依寨，布依米酒迎客人。",
+   "artist": "山歌村来美",
+   "source": "B站",
+   "duration": "03:31",
+   "playable": true,
+   "bvid": "BV1aKTg6eEaA"
+  },
+  {
+   "id": "n1011",
+   "title": "“盘江小调”琴箫合奏-布依族古歌《迎客歌》",
+   "artist": "山歌村来美",
+   "source": "B站",
+   "duration": "01:09",
+   "playable": true,
+   "bvid": "BV1oTjM6tEQ1"
+  },
+  {
+   "id": "n1012",
+   "title": "贵州惠水县 好花红",
+   "artist": "爱贵州的李小脚",
+   "source": "B站",
+   "duration": "06:51",
+   "playable": true,
+   "bvid": "BV16jGx66ELc"
+  },
+  {
+   "id": "n1013",
+   "title": "《好花红》MV",
+   "artist": "动静贵州",
+   "source": "B站",
+   "duration": "03:43",
+   "playable": true,
+   "bvid": "BV13aXPBaEYy"
+  },
+  {
+   "id": "n1014",
+   "title": "布依族民歌《好花红》，杨一博编配，中国音乐学院教育学院合唱团，指挥王玥，国音民族乐团室内乐团。听见乡音——中国民歌合唱作品音乐会（国音堂20251212）",
+   "artist": "啄木鸟9999",
+   "source": "B站",
+   "duration": "04:00",
+   "playable": true,
+   "bvid": "BV1EVmyBuExV"
+  },
+  {
+   "id": "n1015",
+   "title": "今天唱少数民族歌曲，汉族人穿着苗族服饰唱布依族歌曲《命中注定》！",
+   "artist": "kotoko琴子啦",
+   "source": "B站",
+   "duration": "00:38",
+   "playable": true,
+   "bvid": "BV1t4SFBBEss"
+  },
+  {
+   "id": "n1016",
+   "title": "布依族歌曲  《命中注定》原唱：韦学东cover:有梦的腿子  和原唱发音有些不同哈，因为不同地方",
+   "artist": "有梦的腿子",
+   "source": "B站",
+   "duration": "02:05",
+   "playable": true,
+   "bvid": "BV1Ck42zsEfa"
+  },
+  {
+   "id": "n1017",
+   "title": "《命中注定》布依族语言版一个变调夹，走遍天下的三品战士",
+   "artist": "喵小卫是小小喵卫呀",
+   "source": "B站",
+   "duration": "01:51",
+   "playable": true,
+   "bvid": "BV1WonBznEZp"
+  },
+  {
+   "id": "n1018",
+   "title": "姊妹箫 布依族",
+   "artist": "石头仙鬙",
+   "source": "B站",
+   "duration": "01:40",
+   "playable": true,
+   "bvid": "BV1iGKUzcEhs"
+  },
+  {
+   "id": "n1019",
+   "title": "布依族八音坐唱 表演形式独特，八人分持牛骨胡、葫芦琴、月琴、刺鼓、箫筒、钗、包包锣、小马锣等八种乐器围圈轮递说唱，也有加唢呐、木叶、勒尤等乐器伴奏的情形。",
+   "artist": "非遗拾光者-",
+   "source": "B站",
+   "duration": "01:00",
+   "playable": true,
+   "bvid": "BV1qnLczQE1A"
+  },
+  {
+   "id": "n1020",
+   "title": "布依族《山间回响》WHU大艺团翻跳（原中南民族大学剧目）",
+   "artist": "果晒菌",
+   "source": "B站",
+   "duration": "06:17",
+   "playable": true,
+   "bvid": "BV1odKKenE3T"
+  },
+  {
+   "id": "n1021",
+   "title": "布依族情歌(十七十八那几年)",
+   "artist": "宗室飞烟",
+   "source": "B站",
+   "duration": "03:58",
+   "playable": true,
+   "bvid": "BV1Xc69YVEs3"
+  },
+  {
+   "id": "n1022",
+   "title": "《踩曲踏歌》：布依酿酒文化与女子舞蹈的完美融合🎶完整3分10 ，布依族姑娘 ，酿酒文化 ，女子群舞 ，踩曲姑娘",
+   "artist": "bili_1128457584",
+   "source": "B站",
+   "duration": "00:15",
+   "playable": true,
+   "bvid": "BV1xR6JYuEJA"
+  },
+  {
+   "id": "n1023",
+   "title": "布依族古歌：洪水滔天（原文汉语译文有错漏，未改）",
+   "artist": "浩越开林",
+   "source": "B站",
+   "duration": "02:22",
+   "playable": true,
+   "bvid": "BV19rUXYvE1e"
+  },
+  {
+   "id": "n1024",
+   "title": "竹鼓舞/布依族民间传统舞蹈/贵阳市青岩镇龙井村歌舞队",
+   "artist": "国际木文化学会",
+   "source": "B站",
+   "duration": "01:58",
+   "playable": true,
+   "bvid": "BV1uHSgYVEj9"
+  },
+  {
+   "id": "n1025",
+   "title": "布依族古歌：造火（原文汉语译文有错漏）",
+   "artist": "浩越开林",
+   "source": "B站",
+   "duration": "05:13",
+   "playable": true,
+   "bvid": "BV1G8STYgEad"
+  },
+  {
+   "id": "n1026",
+   "title": "布依族古歌：",
+   "artist": "浩越开林",
+   "source": "B站",
+   "duration": "03:24",
+   "playable": true,
+   "bvid": "BV1YnDaYjEHx"
+  },
+  {
+   "id": "n1027",
+   "title": "布依族了年民俗文化节22《布依金钱棍》",
+   "artist": "甲林布依族",
+   "source": "B站",
+   "duration": "04:26",
+   "playable": true,
+   "bvid": "BV1G6D7YTEbT"
+  },
+  {
+   "id": "n1028",
+   "title": "民族音乐传承-布依族敬酒歌（片段）-贵州惠水 #山歌热门推送",
+   "artist": "账号已注销",
+   "source": "B站",
+   "duration": "01:54",
+   "playable": true,
+   "bvid": "BV1se2AYgEme"
+  },
+  {
+   "id": "n1029",
+   "title": "布依族“浪哨歌”《布依恋恋》",
+   "artist": "胖者是谁99",
+   "source": "B站",
+   "duration": "02:35",
+   "playable": true,
+   "bvid": "BV1gd4EeaEj6"
+  },
+  {
+   "id": "n1030",
+   "title": "萨克斯管四重奏《好花红》",
+   "artist": "bili_98190042483",
+   "source": "B站",
+   "duration": "05:20",
+   "playable": true,
+   "bvid": "BV1cBHYekEbB"
+  },
+  {
+   "id": "n1031",
+   "title": "王嘉人-好花红来好花开(原唱MV)",
+   "artist": "小草绿儿",
+   "source": "B站",
+   "duration": "03:53",
+   "playable": true,
+   "bvid": "BV11aiAeNEfV"
+  },
+  {
+   "id": "n1032",
+   "title": "布越《敬酒歌》罗有玉（布依文版）",
+   "artist": "甲林布依族",
+   "source": "B站",
+   "duration": "05:01",
+   "playable": true,
+   "bvid": "BV1TJ4m1N7H7"
+  },
+  {
+   "id": "n1033",
+   "title": "【周深】20190203_好花红",
+   "artist": "账号已注销",
+   "source": "B站",
+   "duration": "04:42",
+   "playable": true,
+   "bvid": "BV1cJ4m1Y7NV"
+  },
+  {
+   "id": "n1034",
+   "title": "勒尤：布依族的音乐盛宴",
+   "artist": "北京非遗保护发展中心",
+   "source": "B站",
+   "duration": "00:32",
+   "playable": true,
+   "bvid": "BV1RT4y1W776"
+  },
+  {
+   "id": "n1035",
+   "title": "布依语韵文：对歌",
+   "artist": "浩越开林",
+   "source": "B站",
+   "duration": "04:05",
+   "playable": true,
+   "bvid": "BV1HW4y1P7bb"
+  },
+  {
+   "id": "n1036",
+   "title": "你欣赏一首贵州布依族歌曲《布依放歌》谢谢点赞转发支持！🙏",
+   "artist": "民歌袁金福",
+   "source": "B站",
+   "duration": "04:38",
+   "playable": true,
+   "bvid": "BV1TN4y1z7vA"
+  },
+  {
+   "id": "n1037",
+   "title": "布依族的八音坐唱——贵州省非物质文化遗产展播",
+   "artist": "贵州社区教育",
+   "source": "B站",
+   "duration": "00:52",
+   "playable": true,
+   "bvid": "BV1yu4y1w7ZA"
+  },
+  {
+   "id": "n1038",
+   "title": "布依民歌（好花红调）——贵州省非物质文化遗产展播 #非遗 #社区教育",
+   "artist": "贵州社区教育",
+   "source": "B站",
+   "duration": "01:04",
+   "playable": true,
+   "bvid": "BV1ov411c7ah"
+  },
+  {
+   "id": "n1039",
+   "title": "动态谱 好花红葫芦丝",
+   "artist": "易筋泽雨",
+   "source": "B站",
+   "duration": "03:12",
+   "playable": true,
+   "bvid": "BV1cC4y1n74q"
+  },
+  {
+   "id": "n1040",
+   "title": "“咕噜山歌 久不唱歌忘记歌”-贵州布依族民歌 阿旺",
+   "artist": "LeoZhou34",
+   "source": "B站",
+   "duration": "00:58",
+   "playable": true,
+   "bvid": "BV1RH4y1Z7eE"
+  },
+  {
+   "id": "n1041",
+   "title": "兴义布依族情歌对唱",
+   "artist": "空气能发电",
+   "source": "B站",
+   "duration": "06:00",
+   "playable": true,
+   "bvid": "BV1G94y147XR"
+  },
+  {
+   "id": "n1042",
+   "title": "木叶声声吹阿哥阿妹成双成对布依族民族特色民族文化我为家乡代言",
+   "artist": "梅花鹏天",
+   "source": "B站",
+   "duration": "01:19",
+   "playable": true,
+   "bvid": "BV1bh4y1S7CV"
+  },
+  {
+   "id": "n1043",
+   "title": "布依族乐曲",
+   "artist": "易拉罐和冰块",
+   "source": "B站",
+   "duration": "01:10",
+   "playable": true,
+   "bvid": "BV1uh4y1k7K9"
+  },
+  {
+   "id": "n1044",
+   "title": "恋恋布依现场版民族音乐民族特色民族文化",
+   "artist": "爱麦乐鸡的奶茶兔",
+   "source": "B站",
+   "duration": "01:49",
+   "playable": true,
+   "bvid": "BV13M4y177Bo"
+  },
+  {
+   "id": "n1045",
+   "title": "改编：布依族《敬酒歌》摇滚版",
+   "artist": "路过的夜轩然",
+   "source": "B站",
+   "duration": "04:10",
+   "playable": true,
+   "bvid": "BV1jV4y127kr"
+  },
+  {
+   "id": "n1046",
+   "title": "配上音乐感受布依族席间对歌的魅力布依族山歌",
+   "artist": "風見骊婷",
+   "source": "B站",
+   "duration": "01:18",
+   "playable": true,
+   "bvid": "BV1DM4y1J7g7"
+  },
+  {
+   "id": "n1047",
+   "title": "远看小哥走过来不高不矮好人才山歌布依族姑娘",
+   "artist": "火焰庚寅",
+   "source": "B站",
+   "duration": "00:33",
+   "playable": true,
+   "bvid": "BV1Jh411c7bq"
+  },
+  {
+   "id": "n1048",
+   "title": "中国少数民族乐器知多少？——布依族  勒尤与勒尤调2",
+   "artist": "Miffy的米菲",
+   "source": "B站",
+   "duration": "00:50",
+   "playable": true,
+   "bvid": "BV188411T7Ke"
+  },
+  {
+   "id": "n1049",
+   "title": "中国少数民族乐器知多少？——布依族   勒尤与勒尤调1",
+   "artist": "Miffy的米菲",
+   "source": "B站",
+   "duration": "00:54",
+   "playable": true,
+   "bvid": "BV1vA411B7Js"
+  },
+  {
+   "id": "n1050",
+   "title": "镇宁布依族歌曲：扁担山之歌",
+   "artist": "眠蛙",
+   "source": "B站",
+   "duration": "03:22",
+   "playable": true,
+   "bvid": "BV18g411z7g5"
+  },
+  {
+   "id": "n1051",
+   "title": "14班的布依族少年",
+   "artist": "bili_24681375597",
+   "source": "B站",
+   "duration": "01:57",
+   "playable": true,
+   "bvid": "BV1XG4y1p749"
+  },
+  {
+   "id": "n1052",
+   "title": "八寻哲匠 ▪ 田野调查  ▪ 【平寨村布依八音勒尤非遗传承人 】",
+   "artist": "八寻哲匠",
+   "source": "B站",
+   "duration": "04:26",
+   "playable": true,
+   "bvid": "BV1Nd4y1r7SJ"
+  },
+  {
+   "id": "n1053",
+   "title": "【黄霄雲】《山水布依》黔西南布依族苗族自治州建州四十周年官方MV",
+   "artist": "黄霄雲的魔星梦幻岛",
+   "source": "B站",
+   "duration": "04:32",
+   "playable": true,
+   "bvid": "BV12Z4y1q77u"
+  },
+  {
+   "id": "n1054",
+   "title": "【非遗故事】布依族八音坐唱不应该被遗忘",
+   "artist": "走进科学与人文历史",
+   "source": "B站",
+   "duration": "00:52",
+   "playable": true,
+   "bvid": "BV1WT4y1S7Fk"
+  },
+  {
+   "id": "n1055",
+   "title": "好花红 罗秀英 刺梨 缫丝花",
+   "artist": "LeoZhou34",
+   "source": "B站",
+   "duration": "04:37",
+   "playable": true,
+   "bvid": "BV1hT4y1S7T1"
+  },
+  {
+   "id": "n1056",
+   "title": "布依族小伙用 本民族语言 翻唱《恋恋布依》",
+   "artist": "喵小卫是小小喵卫呀",
+   "source": "B站",
+   "duration": "02:51",
+   "playable": true,
+   "bvid": "BV1QM4y1P7gX"
+  },
+  {
+   "id": "n1057",
+   "title": "雷佳《好花红》中国文艺20210510",
+   "artist": "梦到一方",
+   "source": "B站",
+   "duration": "03:16",
+   "playable": true,
+   "bvid": "BV1444y1i7oA"
+  },
+  {
+   "id": "n1058",
+   "title": "羊场布依族木叶演奏",
+   "artist": "余厌人间纯净",
+   "source": "B站",
+   "duration": "07:00",
+   "playable": true,
+   "bvid": "BV1tQ4y1h7bk"
+  },
+  {
+   "id": "n1059",
+   "title": "布依竹筒舞",
+   "artist": "ZH55152638",
+   "source": "B站",
+   "duration": "03:21",
+   "playable": true,
+   "bvid": "BV12b4y1Z77A"
+  },
+  {
+   "id": "n1060",
+   "title": "好花红（萨克斯风五重奏）   2-2.5级",
+   "artist": "卡秾艺术",
+   "source": "B站",
+   "duration": "03:02",
+   "playable": true,
+   "bvid": "BV1uT4y1P7nd"
+  },
+  {
+   "id": "n1061",
+   "title": "著名歌手雷佳的一首布依族民歌《好花红》唱出了布依族同胞的深情",
+   "artist": "无为音乐",
+   "source": "B站",
+   "duration": "03:48",
+   "playable": true,
+   "bvid": "BV1zt4y1z75F"
+  },
+  {
+   "id": "n1062",
+   "title": "布依族·古歌-不会唱歌很难找对象",
+   "artist": "游行迹Hello客栈",
+   "source": "B站",
+   "duration": "00:42",
+   "playable": true,
+   "bvid": "BV1i7411q7As"
+  },
+  {
+   "id": "n1063",
+   "title": "《我在贵州等你（布依语版）》MV丨张超友情参演",
+   "artist": "荷塘月色音乐中心",
+   "source": "B站",
+   "duration": "04:49",
+   "playable": true,
+   "bvid": "BV1Ex411X7T3"
+  },
+  {
+   "id": "n1064",
+   "title": "高手演奏布依族非遗传承勒尤，配上木叶吹奏，听起来就是不一样",
+   "artist": "黔依妹文化工作室",
+   "source": "B站",
+   "duration": "03:29",
+   "playable": true,
+   "bvid": "BV1Xb411j7Zv"
+  },
+  {
+   "id": "n1065",
+   "title": "【光盘搬运】布依山歌系列",
+   "artist": "迪亚士-舒尔兹",
+   "source": "B站",
+   "duration": "00:05",
+   "playable": true,
+   "bvid": "BV1yW411Y7Y6"
+  },
+  {
+   "id": "n1066",
+   "title": "布依族Vol（入梦版）",
+   "artist": "爽直的牛皮鼓",
+   "source": "咪咕",
+   "duration": "01:48",
+   "playable": true,
+   "bvid": ""
+  },
+  {
+   "id": "n1067",
+   "title": "布依族进行曲 (DJ超燃版)",
+   "artist": "风花雪月",
+   "source": "咪咕",
+   "duration": "02:01",
+   "playable": true,
+   "bvid": ""
+  },
+  {
+   "id": "n1068",
+   "title": "布依族八音坐唱：田园交响(伴奏)",
+   "artist": "方宇轩",
+   "source": "咪咕",
+   "duration": "01:01",
+   "playable": true,
+   "bvid": ""
+  },
+  {
+   "id": "n1069",
+   "title": "传统音乐《布依族勒尤》幼儿园学习歌谣",
+   "artist": "儿童歌曲",
+   "source": "咪咕",
+   "duration": "02:03",
+   "playable": true,
+   "bvid": ""
+  },
+  {
+   "id": "n1070",
+   "title": "苗族音乐 布依族 少数民族 舞蹈音乐 活泼 灵动原生态 异域风",
+   "artist": "元梦音幻文化",
+   "source": "咪咕",
+   "duration": "15:09",
+   "playable": true,
+   "bvid": ""
+  },
+  {
+   "id": "n1071",
+   "title": "布依蜡染",
+   "artist": "晓晴",
+   "source": "咪咕",
+   "duration": "03:01",
+   "playable": true,
+   "bvid": ""
+  },
+  {
+   "id": "n1072",
+   "title": "布依之声--接亲歌",
+   "artist": "布依之女--陈蓉",
+   "source": "咪咕",
+   "duration": "03:47",
+   "playable": true,
+   "bvid": ""
+  },
+  {
+   "id": "n1073",
+   "title": "布依天生爱唱歌",
+   "artist": "黄文",
+   "source": "咪咕",
+   "duration": "03:41",
+   "playable": true,
+   "bvid": ""
+  },
+  {
+   "id": "n1074",
+   "title": "人生无常（布依调男生版）",
+   "artist": "凉都杜毅龙",
+   "source": "咪咕",
+   "duration": "06:00",
+   "playable": true,
+   "bvid": ""
+  },
+  {
+   "id": "n1075",
+   "title": "传统戏剧《布依戏》幼儿园童谣",
+   "artist": "儿童歌曲",
+   "source": "咪咕",
+   "duration": "00:54",
+   "playable": true,
+   "bvid": ""
+  },
+  {
+   "id": "n1076",
+   "title": "传统戏剧《布依戏》成长儿歌",
+   "artist": "儿童歌曲",
+   "source": "咪咕",
+   "duration": "01:07",
+   "playable": true,
+   "bvid": ""
+  },
+  {
+   "id": "n1077",
+   "title": "传统戏剧《布依戏》幼儿园认知音乐",
+   "artist": "儿童歌曲",
+   "source": "咪咕",
+   "duration": "02:19",
+   "playable": true,
+   "bvid": ""
+  },
+  {
+   "id": "n1078",
+   "title": "传统戏剧《布依戏》儿童教育歌谣",
+   "artist": "儿童歌曲",
+   "source": "咪咕",
+   "duration": "02:06",
+   "playable": true,
+   "bvid": ""
+  },
+  {
+   "id": "n1079",
+   "title": "传统戏剧《布依戏》儿童益智音乐",
+   "artist": "儿童歌曲",
+   "source": "咪咕",
+   "duration": "02:22",
+   "playable": true,
+   "bvid": ""
+  },
+  {
+   "id": "n1080",
+   "title": "传统戏剧《布依戏》学前班摇篮曲",
+   "artist": "儿童歌曲",
+   "source": "咪咕",
+   "duration": "02:04",
+   "playable": true,
+   "bvid": ""
+  },
+  {
+   "id": "n1081",
+   "title": "传统戏剧《布依戏》少儿早教音乐",
+   "artist": "儿童歌曲",
+   "source": "咪咕",
+   "duration": "01:41",
+   "playable": true,
+   "bvid": ""
+  },
+  {
+   "id": "n1082",
+   "title": "山水布依",
+   "artist": "黄霄雲",
+   "source": "咪咕",
+   "duration": "04:29",
+   "playable": true,
+   "bvid": ""
+  },
+  {
+   "id": "n1083",
+   "title": "山歌伴奏：沙拉拉调 布依山歌（伴奏）",
+   "artist": "陆应学",
+   "source": "咪咕",
+   "duration": "05:36",
+   "playable": true,
+   "bvid": ""
+  }
+ ],
+ "after": 278,
+ "available": 163
+}

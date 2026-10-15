@@ -1,0 +1,61 @@
+{
+  "name": "buyi-music",
+  "version": "1.0.0",
+  "description": "布依音 · 布依族民族音乐播放器",
+  "main": "src/main.js",
+  "author": "布依音",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder --win --x64"
+  },
+  "devDependencies": {
+    "electron": "^31.7.7",
+    "electron-builder": "^24.13.3"
+  },
+  "build": {
+    "appId": "com.buyi.music",
+    "productName": "布依音",
+    "copyright": "Copyright © 2026 布依音",
+    "directories": {
+      "output": "dist",
+      "buildResources": "build"
+    },
+    "files": [
+      "src/**/*",
+      "package.json"
+    ],
+    "afterPack": "scripts/afterPack.js",
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": ["x64"]
+        }
+      ],
+      "icon": "build/icon.ico",
+      "signAndEditExecutable": false,
+      "artifactName": "${productName}-${version}-安装包.${ext}"
+    },
+    "nsis": {
+      "oneClick": false,
+      "perMachine": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "布依音",
+      "installerLanguages": ["zh_CN"],
+      "language": "2052",
+      "unicode": true,
+      "displayLanguageSelector": false
+    },
+    "compression": "maximum",
+    "asar": true,
+    "asarUnpack": [
+      "src/assets/audio/**",
+      "src/assets/covers/**"
+    ]
+  }
+}
